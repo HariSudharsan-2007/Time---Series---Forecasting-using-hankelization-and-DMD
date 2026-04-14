@@ -46,4 +46,4 @@ Based on Koopman Operator Theory, which maps finite non-linear dynamics to infin
 ## How to Run
 1. Clone this repository to your local machine.
 2. Open MATLAB.
-3. Run any of the `.m` scripts directly. Each script is self-contained and will automatically generate the corresponding datasets, compute the models, and output the analytical dashboard figures.
+3. Run any of the `.mlx` scripts directly. Each script is self-contained and will automatically generate the corresponding datasets, compute the models, and output the analytical dashboard figures.
